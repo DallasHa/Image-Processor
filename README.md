@@ -14,5 +14,5 @@ This program should be run with gcc using the -x flag to force compiler to use A
 
 gcc -x ada -c main.ada
 
-Sample navigation (using GNAT IDE):
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+Sample program navigation (using GNAT IDE):
+![Sample Output](output.PNGraw=true "Title")
