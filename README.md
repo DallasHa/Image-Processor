@@ -16,26 +16,26 @@ gcc -x ada -c main.ada
 
 Sample program navigation (using GNAT IDE):
 
-![Sample Output](https://github.com/DallasHa/Image-Processor/blob/b798341a7c01da184e2f088091882536d8928119/output.PNG?raw=true "Title")
+![Sample Output](https://github.com/DallasHa/Image-Processor/blob/18a571b6695acd92842b0929ad6b9156fd0c07b1/images/output.PNG?raw=true "Title")
 
 The following sample pgm(test3_p2.pgm) image as well as its transformation results can be seen below and found in this repository.
 
 <strong>Original Image:</strong>
 
-![Sample Output](https://github.com/DallasHa/Image-Processor/blob/54de78e9e7ef3c7ce0aedad170939dce71e6f3bf/test3.png?raw=true "Title")
+![Sample Output](https://github.com/DallasHa/Image-Processor/blob/18a571b6695acd92842b0929ad6b9156fd0c07b1/images/test3.png?raw=true "Title")
 
 <strong>Inversion:</strong>
 
-![Sample Output](https://github.com/DallasHa/Image-Processor/blob/54de78e9e7ef3c7ce0aedad170939dce71e6f3bf/test3Inversion.png?raw=true "Title")
+![Sample Output](https://github.com/DallasHa/Image-Processor/blob/18a571b6695acd92842b0929ad6b9156fd0c07b1/images/test3Inversion.png?raw=true "Title")
 
 <strong>Logarithmic Transformation:</strong>
 
-![Sample Output](https://github.com/DallasHa/Image-Processor/blob/54de78e9e7ef3c7ce0aedad170939dce71e6f3bf/test3LogarithmicTransformation.png?raw=true "Title")
+![Sample Output](https://github.com/DallasHa/Image-Processor/blob/18a571b6695acd92842b0929ad6b9156fd0c07b1/images/test3LogarithmicTransformation.png?raw=true "Title")
 
 <strong>Histogram Equalization:</strong>
 
-![Sample Output](https://github.com/DallasHa/Image-Processor/blob/54de78e9e7ef3c7ce0aedad170939dce71e6f3bf/test3Histogram.png?raw=true "Title")
+![Sample Output](https://github.com/DallasHa/Image-Processor/blob/18a571b6695acd92842b0929ad6b9156fd0c07b1/images/test3Histogram.png?raw=true "Title")
 
 <strong>Contrast Stretching</strong>(automatically calculated):
 
-![Sample Output](https://github.com/DallasHa/Image-Processor/blob/54de78e9e7ef3c7ce0aedad170939dce71e6f3bf/test3ContrastStretching.png?raw=true "Title")
+![Sample Output](https://github.com/DallasHa/Image-Processor/blob/18a571b6695acd92842b0929ad6b9156fd0c07b1/images/test3ContrastStretching.png?raw=true "Title")
